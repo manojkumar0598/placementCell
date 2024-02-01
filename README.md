@@ -9,5 +9,7 @@ The System provides two portals:
    Here, the Admin can enter new Companies into the system, check student related information etc.
 A centralized system that can be used by both students and the admins helps manage placement cell better.
 
+SQLITE Database is used to store Student and Company Details
+
 How to run?
 Run the dbms1.py python file via a shell or using any IDE
